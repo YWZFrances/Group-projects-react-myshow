@@ -1,0 +1,5 @@
+#cart-page .sub-header { height: 40px; line-height: 40px; }
+#cart-page .content { top: 83px;}
+
+
+.cart-bar {  display: -webkit-box;  display: -webkit-flex;  display: flex;  padding: 0 10px;  -webkit-box-pack: justify;  -webkit-justify-content: space-between;  justify-content: space-between; }.cart-list {  padding: 0 10px; }.cart-item {  padding: 10px 5px;  height: 101px;  border-bottom: 1px solid #666666; }  .cart-item .pic {    float: left; }  .cart-item img {    width: 80px;    height: 80px; }  .cart-item .info {    float: left;    padding-left: 20px;    width: 180px;    line-height: 1.6; }  .cart-item .p-name {    font-size: 14px; height: 20px; overflow: hidden }  .cart-item .num-wrap {    height: 30px; }  .cart-item .minus, .cart-item input, .cart-item .plus {    border: 1px solid #ccc;    line-height: 28px;    text-align: center;    float: left;    width: 40px; }  .cart-item input {    margin: 0 -1px; }  .cart-item .delete {    float: right; }

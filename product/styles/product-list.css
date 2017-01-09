@@ -1,0 +1,27 @@
+.product-list img { height: 200px;}
+.product-list{
+	width: 100%;
+	overflow: hidden;
+	float: left;
+}
+.product-list li{
+	padding:10px;
+	width:50%;
+	height:280px;
+	text-align: center;
+	float: left;
+}
+.product-list li p{
+	overflow: hidden;
+	color: #000;
+	margin-top: 10px;
+}
+.product-list li p em{
+	color:red;
+	font-size: 20px;
+	float: left;
+}
+.product-list li p del{
+	float: right;
+	margin-top: 5px;
+}

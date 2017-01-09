@@ -1,0 +1,19 @@
+/*订单的商品信息*/
+.order-product-info {  }
+.order-product-info li { border-bottom: 1px solid #ccc; padding: 5px 10px; display: flex}
+.order-product-info img { width: 100px; height: 100px;}
+.order-product-info .text-info{ flex: 1; height: 60px; overflow: hidden; padding: 0 5px 0 10px; font-size: 14px;}
+.order-product-info .num-info { width: 60px; text-align: right}
+
+em { color: darkorange}
+.order-state-list { height: 100%}
+
+.order-state-list li { width: 20%; float: left; text-align: center}
+
+.order-list { background-color: #eee;}
+.order-list .order-item { margin-top: 10px; border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; background-color: #fff}
+
+.total-info { padding: 8px; text-align: right;border-bottom: 1px solid #ccc;}
+.order-btns { padding: 8px; height:42px; line-height: 26px; font-size: 14px;}
+.order-btns em { float: left;}
+.order-btns button { float: right; margin-left: 5px; border: 1px solid #ccc; border-radius: 4px; height: 26px; line-height: 24px; padding: 0 10px; }

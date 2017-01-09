@@ -1,0 +1,11 @@
+*{margin:0;padding:0;}
+
+#content-page{width: 100%;position: absolute;top: 0px;left:0px;bottom:0;background: #f3eff0;}
+.login-list { padding: 10px; font-size: 14px;}
+.login-list li {padding: 5px;}
+.text-bar { width: 95%; height: 40px; padding: 5px;border-radius: 5px;border:0;background: #fff;}
+
+.go-forget { margin: 0 10px;}
+
+.login-in,.go-reg { display: block;width: 95%; height: 50px; line-height: 40px; text-align: center; background: #ca0808; color:#Fff;border-radius: 8px;font-size: 22px;border:1px solid #000;}
+.go-reg {background-color: #5c5c5c;}

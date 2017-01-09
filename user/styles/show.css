@@ -1,0 +1,16 @@
+*{margin:0;padding:0;}
+
+.con{width: 100%;background: #f7f7f7;}
+.con .top{width: 100%;padding:100px 20px;}
+.con .top .iconfont{font-size: 86px;float: left;margin-top: -45px;}
+.con .top .right{width: 50%;float: left;padding:0 20px;margin-top: -25px;}
+.con .top .right p{width: 100%;font-size: 20px;color: #000;padding:5px 0;}
+.con .top .right span{width: 50%;float: left;}
+.con .top .right em{width: 50%;float: left;}
+.red{color: red;}
+.con .bottom{width: 100%;padding:120px 32px;overflow: hidden;}
+.con .bottom .bottom-list{width: 80%;border:1px solid #dedede;border-radius: 10px;margin-top:-92px;background: #fff;}
+.con .bottom .bottom-list li{width: 100%;border-bottom: 1px solid #dedede;list-style: none;font-size: 20px;padding:15px 0;}
+.con .bottom .bottom-list li a{width: 30%;padding:10px;color: #000;}
+.con .bottom .bottom-list li span{float: right;padding-right:10px;}
+.con .bottom .bottom-list li:nth-of-type(4){border-bottom: none;}

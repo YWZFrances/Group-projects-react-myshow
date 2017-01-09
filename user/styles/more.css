@@ -1,0 +1,8 @@
+*{margin:0;padding:0;}
+
+.more .con-info{width: 100%;padding:120px 0px;overflow: hidden;}
+.more .con-info .con-list{width: 90%;border:1px solid #dedede;border-radius: 10px;margin-top:-92px;background: #fff;margin-left:18px;}
+.more .con-info .con-list li{width: 100%;border-bottom: 1px solid #dedede;list-style: none;font-size: 20px;padding:15px 0;}
+.more .con-info .con-list li a{width: 30%;padding:10px;color: #000;}
+.more .con-info .con-list li span{float: right;padding-right:10px;}
+.more .con-info .con-list li:nth-of-type(4){border-bottom: none;}

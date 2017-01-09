@@ -1,0 +1,14 @@
+.confirm-footer { position: absolute; bottom: 0;left: 0; width: 100%; height: 46px; padding: 3px; line-height: 40px; display: flex; border-top: 1px solid #ccc}
+.confirm-footer .num-info{ flex: 1; text-align: center}
+.confirm-footer em { color: orange}
+.confirm-footer button { width: 80px; text-align: center; color: #fff; background-color: orange; font-size: 16px;}
+
+#confirm-page .content { padding: 5px;}
+
+
+
+/*address*/
+#confirm-page .ads-info  { padding: 10px; border: 1px solid darkorange}
+#confirm-page .order-info { border-top: 1px solid #ccc}
+#confirm-page .order-price { padding: 5px;}
+#confirm-page .user-info { border: 1px solid #ccc;height: 50px; width: 100% }
